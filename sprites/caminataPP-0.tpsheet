@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:b33000a5e8567e45a47fe42d8ee5e811:d7f5258bc7456e08b7d44aafff852847:e6ee481a4217389d891e4d153bc9a6b1$
+#
+:format=40300
+:texture=caminataPP-0.png
+:size=2048x128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+caminataA1;0;18;110;110; 0.5;0.5; 0;0;0;0
+caminataA2;110;18;110;110; 0.5;0.5; 0;0;0;0
+caminataA3;220;18;110;110; 0.5;0.5; 0;0;0;0
+caminataA4;330;18;110;110; 0.5;0.5; 0;0;0;0
+caminataD1;440;25;103;103; 0.5;0.5; 0;0;0;0
+caminataD2;550;22;106;106; 0.46226415;0.09433961999999996; 0;0;0;0
+caminataD3;660;22;106;106; 0.5;0.5; 0;0;0;0
+caminataD4;770;26;102;102; 0.5;0.5; 0;0;0;0
+caminataIzq1;880;25;103;103; 0.5;0.5; 0;0;0;0
+caminataIzq2;990;22;106;106; 0.5;0.5; 0;0;0;0
+caminataIzq3;1100;22;106;106; 0.5;0.5; 0;0;0;0
+caminataIzq4;1210;26;102;102; 0.5;0.5; 0;0;0;0
+caminataUp1;1320;23;80;105; 0.5;0.5; 0;0;0;0
+caminataUp2;1430;22;75;106; 0.5;0.5; 0;0;0;0
+caminataUp3;1540;22;75;106; 0.5;0.5; 0;0;0;0
+caminataUp4;1650;23;75;105; 0.5;0.5; 0;0;0;0
